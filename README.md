@@ -1,2 +1,2 @@
-# Abayro-translate
+# Abayro!
 Help translate abayro!
